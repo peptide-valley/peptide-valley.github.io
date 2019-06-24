@@ -8,8 +8,10 @@ SinoMed Peptide Valley (SMPV) is a Chinese Health and Wellness Technology compan
 
 Peptide Valley was incorporated in New Jersey in May 2019 by SMPV to explore the US market for SMPV products, establish collaborations with US companies and research organizations to develop new products and export US products to Chinese market utilizing the broad and deep SMPV sales networks in China.
 
+```
 Peptide Valley LLC
 414 Hackensack Ave, Unit 2205
 Hackensack, NJ 07661
 (201) 300-9086
 info@peptide-valley.com
+```

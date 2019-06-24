@@ -1,0 +1,15 @@
+---
+title: About Us
+layout: default
+---
+# About Us
+
+SinoMed Peptide Valley (SMPV) is a Chinese Health and Wellness Technology company specializing in research and development, manufacturing and sales of dietary supplements, cosmetics, and small molecule peptide raw materials. It developed proprietary production technology to process natural plants such as ginseng, into the form of peptides. The main product of Ginseng Peptides, is a well-known nutritional dietary supplement brand in China. SMPV has nearly 20 branches in China, with sales in 2018 exceeding $80 million.
+
+Peptide Valley was incorporated in New Jersey in May 2019 by SMPV to explore the US market for SMPV products, establish collaborations with US companies and research organizations to develop new products and export US products to Chinese market utilizing the broad and deep SMPV sales networks in China.
+
+Peptide Valley LLC
+414 Hackensack Ave, Unit 2205
+Hackensack, NJ 07661
+(201) 300-9086
+info@peptide-valley.com

@@ -8,8 +8,6 @@ title: Our Team
   }
 </style>
 
-# Our Team
-
 ## Shuwei Zong
 
 ![](/images/zong.png)

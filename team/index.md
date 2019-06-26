@@ -6,11 +6,12 @@ title: Our Team
 
 ## Shuwei Zong
 
-![](/images/zong.jpg)
+![](/images/zong.png)
 
 
 ## Yong Li
-...
+
+![](/images/li.png)
 
 ## Hope Luo
 ...

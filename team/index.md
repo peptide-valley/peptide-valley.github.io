@@ -2,6 +2,12 @@
 layout: default
 title: Our Team
 ---
+<style>
+  .container img {
+    border-radius: 64px;
+  }
+</style>
+
 # Our Team
 
 ## Shuwei Zong

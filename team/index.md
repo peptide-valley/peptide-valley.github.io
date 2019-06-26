@@ -4,8 +4,10 @@ title: Our Team
 ---
 # Our Team
 
-## Ping Zong
-...
+## Shuwei Zong
+
+![](images/zong.jpg)
+
 
 ## Yong Li
 ...

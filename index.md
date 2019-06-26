@@ -13,5 +13,5 @@ carousel:
 
 ---
 # Peptide Valley
-## Be Well Everyday 
+
 {% include carousel.html %}

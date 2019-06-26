@@ -3,7 +3,6 @@ layout: default
 title: SMPV
 carousel:
   - SMPV01.jpg
-  - SMPV02.jpg
   - SMPV06.jpg
   - SMPV07.jpg
   - SMPV08.jpg

@@ -6,7 +6,7 @@ title: Our Team
 
 ## Shuwei Zong
 
-![](images/zong.jpg)
+![](/images/zong.jpg)
 
 
 ## Yong Li

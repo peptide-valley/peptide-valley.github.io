@@ -6,7 +6,6 @@ carousel:
   - SMPV06.jpg
   - SMPV07.jpg
   - SMPV08.jpg
-  - SMPV09.jpg
   - SMPV10.jpg
 ---
 # SinoMed Peptide Valley (SMPV)

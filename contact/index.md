@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Contact Us
+title: Contact
 ---
-# Contact Us
+# Contact
 
 ```
 Peptide Valley LLC

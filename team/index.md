@@ -12,7 +12,7 @@ title: Our Team
 
 ## Shuwei Zong
 
-### CEO 
+### Chief Scientist 
 
 ![](/images/zong.png)
 

@@ -12,14 +12,14 @@ title: Our Team
 
 ## Shuwei Zong
 
-### Chief Scientist 
+### CEO
 
 ![](/images/zong.png)
 
 
 ## Yong Li
 
-### CTO
+### Chief Scientist 
 
 ![](/images/li.png)
 

@@ -12,19 +12,18 @@ title: Our Team
 
 ## Shuwei Zong
 
-### CEO
 
 ![](/images/zong.png)
+CEO
 
 
 ## Yong Li
 
-### Chief Scientist 
 
 ![](/images/li.png)
+Chief Scientist 
 
 ## Hong Luo
 
-### CFO
-
 ![](/images/36388865-93F9-44E3-A6B6-5CD410AFB2A1.jpeg)
+CFO

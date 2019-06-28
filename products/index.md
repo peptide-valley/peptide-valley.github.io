@@ -14,9 +14,20 @@ carousel:
 
 {% include carousel.html %}
 
-
 ## Ginseng Peptides Solid Beverage Series
+
+- Ginseng Peptides
+- Ginseng Peptides Privilege Edition
+- Ginseng Peptides Classic
+- Ginseng Peptides Gold Edition
+- Ginseng Peptides Silver Edition
 
 ## Small Molecule Peptide Solid Beverage Series
 
+- Sea Cucumber Peptides Privilege Edition
+
+
 ## Small Molecule Peptide Beauty Products
+
+- Ginseng Peptides Revitalizing Soap
+- Ginseng Peptides Facial Masks Gold Edition

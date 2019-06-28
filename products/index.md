@@ -4,9 +4,9 @@ title: Our Products
 ---
 <style>
   .container img {
-    width: 128px;
-    height: 128px;
-    border-radius: 128px;
+    width: 72px;
+    height: 72px;
+    border-radius: 72px;
   }
 </style>
 

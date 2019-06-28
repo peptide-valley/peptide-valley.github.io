@@ -10,9 +10,7 @@ carousel:
   - /uploads/news/2017-11-22-11-09-55-5a155b030f3e5.jpg
 
 ---
-# Our Products
-
-{% include carousel.html %}
+## Our Products
 
 ### Ginseng Peptides Solid Beverage Series
 

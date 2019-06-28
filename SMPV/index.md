@@ -2,11 +2,11 @@
 layout: default
 title: SMPV
 carousel:
-  - SMPV01.jpg
-  - SMPV06.jpg
-  - SMPV07.jpg
-  - SMPV08.jpg
-  - SMPV10.jpg
+  - /images/SMPV01.jpg
+  - /images/SMPV06.jpg
+  - /images/SMPV07.jpg
+  - /images/SMPV08.jpg
+  - /images/SMPV10.jpg
 ---
 # SinoMed Peptide Valley (SMPV)
 

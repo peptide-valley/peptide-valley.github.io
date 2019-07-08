@@ -8,4 +8,5 @@ Peptides are short chains of amino acid monomers linked by peptide (amide) bonds
 
 
 ![](1024px-Tetrapeptide_structural_formulae_v.1.png)
-For consumer market, peptide products are mostly related to proteins and amino acids in dietary supplements and cosmetics.
+
+In consumer market, peptide products are mostly related to proteins and amino acids in dietary supplements and cosmetics.

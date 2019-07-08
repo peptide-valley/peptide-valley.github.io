@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Home Page
 carousel:
   - /homepage_slides/slide01.jpg

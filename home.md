@@ -12,3 +12,5 @@ carousel:
 {% include carousel.html %}
 
 {% include about.html %}
+
+{% include products.html %}

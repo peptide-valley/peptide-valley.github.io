@@ -15,9 +15,9 @@ carousel:
 
 {% include SMPV.html %}
 
-{% include products.html %}
-
 {% include peptide.html %}
+
+{% include products.html %}
 
 {% include team.html %}
 

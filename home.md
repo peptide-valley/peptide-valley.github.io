@@ -17,4 +17,8 @@ carousel:
 
 {% include products.html %}
 
+{% include peptide.html %}
+
 {% include team.html %}
+
+{% include contact.html %}

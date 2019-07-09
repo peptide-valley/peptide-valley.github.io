@@ -14,3 +14,5 @@ carousel:
 {% include about.html %}
 
 {% include products.html %}
+
+{% include team.html %}

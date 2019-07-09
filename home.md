@@ -13,6 +13,8 @@ carousel:
 
 {% include about.html %}
 
+{% include SMPV.html %}
+
 {% include products.html %}
 
 {% include team.html %}

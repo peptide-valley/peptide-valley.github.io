@@ -1,29 +1,11 @@
 ---
-layout: default
+layout: test
 title: Our Team
 ---
-<style>
-  .container img {
-    width: 64px;
-    height: 64px;
-    border-radius: 64px;
-  }
-</style>
 
-## Shuwei Zong
+- [Shuwei Zong](shuwei.zong.html)
 
+- [Hong Luo](hong.luo.html)
 
-![](/images/zong.png)
-CEO
+- [Juliet Lo](juliet.lo.html)
 
-
-## Yong Li
-
-
-![](/images/li.png)
-Chief Scientist 
-
-## Hong Luo
-
-![](/images/36388865-93F9-44E3-A6B6-5CD410AFB2A1.jpeg)
-CFO

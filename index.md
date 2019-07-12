@@ -13,6 +13,6 @@ title: Home Page
 
 {% include products.html %}
 
-{% include team.html %}
+{% include team/index.html %}
 
 {% include contact.html %}

@@ -3,8 +3,6 @@ layout: home
 title: Home Page
 ---
 
-# Peptide Valley
-
 {% include about.html %}
 
 {% include smpv.html %}

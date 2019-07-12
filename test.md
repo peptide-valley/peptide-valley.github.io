@@ -3,15 +3,6 @@ layout: home
 title: Home Page
 ---
 
----
-layout: home
-title: Home Page
-carousel:
-  - /homepage_slides/slide01.jpg
-  - /homepage_slides/slide02.jpg
-  - /homepage_slides/slide03.jpg
----
-
 # Peptide Valley
 
 {% include carousel.html %}
@@ -24,8 +15,10 @@ carousel:
 
 {% include products.html %}
 
+<div class="container">
 {% include team/shuwei.zong.html %}
 {% include team/hong.luo.html %}
 {% include team/juliet.lo.html %}
+</div>
 
 {% include contact.html %}

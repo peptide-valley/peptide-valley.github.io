@@ -3,9 +3,9 @@ layout: test
 title: Our Team
 ---
 
-{% include shuwei.zong.html %}
+{% include team/shuwei.zong.html %}
 
-{% include hong.luo.html %}
+{% include team/hong.luo.html %}
 
-{% include juliet.lo.html %}
+{% include team/juliet.lo.html %}
 

@@ -13,7 +13,7 @@ carousel:
 
 {% include about.html %}
 
-{% include SMPV.html %}
+{% include smpv.html %}
 
 {% include peptide.html %}
 

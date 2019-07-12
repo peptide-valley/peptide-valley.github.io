@@ -3,9 +3,9 @@ layout: test
 title: Our Team
 ---
 
-- [Shuwei Zong](shuwei.zong.html)
+{% include shuwei.zong.html %}
 
-- [Hong Luo](hong.luo.html)
+{% include hong.luo.html %}
 
-- [Juliet Lo](juliet.lo.html)
+{% include juliet.lo.html %}
 

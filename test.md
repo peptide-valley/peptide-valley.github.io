@@ -5,7 +5,7 @@ title: Home Page
 
 # Peptide Valley
 
-{% include carousel.html %}
+{% include carousel/pv.html %}
 
 {% include about.html %}
 

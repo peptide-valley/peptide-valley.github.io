@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Home Page
 ---
 
 {% include about.html %}

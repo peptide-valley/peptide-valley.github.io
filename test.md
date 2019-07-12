@@ -15,10 +15,6 @@ title: Home Page
 
 {% include products.html %}
 
-<div class="container">
-{% include team/shuwei.zong.html %}
-{% include team/hong.luo.html %}
-{% include team/juliet.lo.html %}
-</div>
+{% include team/index.html %}
 
 {% include contact.html %}

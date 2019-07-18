@@ -9,8 +9,11 @@ layout: home
 
 {% include peptide.html %}
 
+{% include research/index.html %}
+
 {% include products.html %}
 
 {% include team/index.html %}
+
 
 {% include contact.html %}

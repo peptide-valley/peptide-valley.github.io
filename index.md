@@ -13,7 +13,9 @@ layout: home
 
 {% include products.html %}
 
-{% include team/index.html %}
+{% include team/founders.html %}
 
+{% include team/management.html %}
 
 {% include contact.html %}
+

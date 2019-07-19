@@ -7,11 +7,9 @@ layout: home
 
 {% include smpv.html %}
 
-{% include peptide.html %}
+{% include products.html %}
 
 {% include research/index.html %}
-
-{% include products.html %}
 
 {% include team/founders.html %}
 

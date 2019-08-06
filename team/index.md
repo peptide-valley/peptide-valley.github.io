@@ -1,5 +1,5 @@
 ---
-layout: test
+layout: team
 title: Our Team
 ---
 

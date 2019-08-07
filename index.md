@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-{% include top.html %}
 
 {% include carousel.html %}
 

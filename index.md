@@ -11,9 +11,11 @@ layout: home
 
 {% include research/index.html %}
 
+<div id="team">
 {% include team/founders.html %}
 
 {% include team/management.html %}
+</div>
 
 {% include contact.html %}
 

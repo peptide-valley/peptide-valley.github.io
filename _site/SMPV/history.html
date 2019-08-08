@@ -17,16 +17,31 @@
 <link rel="shortcut icon" href="/favicon.ico">
 
     <style>
+  html {
+    scroll-behavior: smooth;
+  }
+
   body {
    margin: 0;
    padding: 0;
+   margin-bottom: 60px;
+   background: #FF851B;
   }
+
+  body > .container {
+    padding: 60px 15px 0;
+  }
+
   * {
     font-family: 'Raleway', sans-serif;
   }
 
   main {
-    margin-top: 88px;
+    position: absolute;
+    width: 100%;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    background: #FFFFFF;
   }
 
   .container {
@@ -39,10 +54,16 @@
   }
 
   footer {
-    color: rgb(240, 80, 0);
-    background: rgb(250, 175, 0);
-    margin-top: 1em;
+    width: 100%;
     padding: 1em;
+    color: #001f3f;
+    background: #FF851B;
+  }
+
+  footer > .container {
+    background: transparent;
+    padding-right: 15px;
+    padding-left: 15px;
   }
 
 
@@ -104,12 +125,31 @@
     background-color: #088424!important;
   } 
 
+  .section {
+    padding-top: 80px;
+   }
+
   .jumbotron {
-    margin-top: 20px;
     margin-bottom: 0;
     border-radius: 0;
   }
 
+.paral {
+  min-height: 100px;
+  padding: 0;
+}
+
+.paral h1 {
+  background: #FF851B;
+  color: #FFFFFF;
+  font-size: 40px;
+  text-align: center;
+  line-height: 200px;
+  width: 100%;
+}
+
+
+@media only screen and (min-width: 1024px) {
   .paral {
     min-height: 100px;
     background-attachment: fixed;
@@ -119,13 +159,9 @@
   }
 
   .paral h1 {
-    background: rgba(0, 0, 0, 0.6);
-    color: rgb(245, 151, 15);
-    font-size: 40px;
-    text-align: center;
-    line-height: 200px;
-    width: 100%;
-   }
+    color: #FF851B;
+    background: none;
+  }
 
   .paralabout {
     background-image: url("/paral/about.jpg");
@@ -147,6 +183,8 @@
   .paralcontact {
    background-image: url("/paral/contact.jpg");
   }
+
+}
 
 </style>
 

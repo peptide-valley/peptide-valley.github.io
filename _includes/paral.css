@@ -1,0 +1,51 @@
+.paral {
+  min-height: 100px;
+  padding: 0;
+}
+
+.paral h1 {
+  background: #FF851B;
+  color: #FFFFFF;
+  font-size: 40px;
+  text-align: center;
+  line-height: 200px;
+  width: 100%;
+}
+
+
+@media only screen and (min-width: 1024px) {
+  .paral {
+    min-height: 100px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50% 50%;
+    padding: 0;
+  }
+
+  .paral h1 {
+    color: #FF851B;
+    background: none;
+  }
+
+  .paralabout {
+    background-image: url("/paral/about.jpg");
+  }
+
+  .paralproducts {
+    /*background-image: url("/paral/about.jpg");*/
+    background-image: url("/homepage_slides/slide01.jpg");
+  }
+
+  .paralteam {
+    background-image: url("/homepage_slides/slide01.jpg");
+  }
+ 
+  .paralresearch {
+    background-image: url("/peptide/1024px-Tetrapeptide_structural_formulae_v.1.png");
+  }
+ 
+  .paralcontact {
+   background-image: url("/paral/contact.jpg");
+  }
+
+}

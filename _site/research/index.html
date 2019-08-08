@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Peptide Valley</title>
-    <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="/lib/raleway.css" rel="stylesheet">
+    <link rel="stylesheet" href="/lib/bootstrap.min.css">
     <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="msapplication-config" content="/browserconfig.xml">
 <meta name="apple-mobile-web-app-title" content="Peptide Valley">
@@ -17,16 +17,31 @@
 <link rel="shortcut icon" href="/favicon.ico">
 
     <style>
+  html {
+    scroll-behavior: smooth;
+  }
+
   body {
    margin: 0;
    padding: 0;
+   margin-bottom: 60px;
+   background: #FF851B;
   }
+
+  body > .container {
+    padding: 60px 15px 0;
+  }
+
   * {
     font-family: 'Raleway', sans-serif;
   }
 
   main {
-    margin-top: 88px;
+    position: absolute;
+    width: 100%;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    background: #FFFFFF;
   }
 
   .container {
@@ -39,10 +54,16 @@
   }
 
   footer {
-    color: rgb(240, 80, 0);
-    background: rgb(250, 175, 0);
-    margin-top: 1em;
+    width: 100%;
     padding: 1em;
+    color: #001f3f;
+    background: #FF851B;
+  }
+
+  footer > .container {
+    background: transparent;
+    padding-right: 15px;
+    padding-left: 15px;
   }
 
 
@@ -104,12 +125,31 @@
     background-color: #088424!important;
   } 
 
+  .section {
+    padding-top: 80px;
+   }
+
   .jumbotron {
-    margin-top: 20px;
     margin-bottom: 0;
     border-radius: 0;
   }
 
+.paral {
+  min-height: 100px;
+  padding: 0;
+}
+
+.paral h1 {
+  background: #FF851B;
+  color: #FFFFFF;
+  font-size: 40px;
+  text-align: center;
+  line-height: 200px;
+  width: 100%;
+}
+
+
+@media only screen and (min-width: 1024px) {
   .paral {
     min-height: 100px;
     background-attachment: fixed;
@@ -119,13 +159,9 @@
   }
 
   .paral h1 {
-    background: rgba(0, 0, 0, 0.6);
-    color: rgb(245, 151, 15);
-    font-size: 40px;
-    text-align: center;
-    line-height: 200px;
-    width: 100%;
-   }
+    color: #FF851B;
+    background: none;
+  }
 
   .paralabout {
     background-image: url("/paral/about.jpg");
@@ -148,12 +184,15 @@
    background-image: url("/paral/contact.jpg");
   }
 
+}
+
 </style>
 
 
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark">
+    <header>
+<nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark">
   <a class="navbar-brand py-0" href="/">
   <img src="/logo.svg" width="72" height="72" alt="PV">
   <h5 style="display: inline"> Peptide Valley</h5>
@@ -164,28 +203,29 @@
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav ml-auto">
-      <li class="nav-item">
+      <li class="nav-item" data-toggle="collapse" data-target="#navbarSupportedContent">
         <a class="nav-link py-0" href="/">Home</a>
       </li>
-      <li class="nav-item">
+      <li class="nav-item" data-toggle="collapse" data-target="#navbarSupportedContent">
         <a class="nav-link py-0" href="/#about">About Us</a>
       </li>
-      <li class="nav-item">
+      <li class="nav-item" data-toggle="collapse" data-target="#navbarSupportedContent">
         <a class="nav-link py-0" href="/#products">Products</a>
       </li>
-      <li class="nav-item">
+      <li class="nav-item" data-toggle="collapse" data-target="#navbarSupportedContent">
         <a class="nav-link py-0" href="/#research">Research</a>
       </li>
-      <li class="nav-item">
+      <li class="nav-item" data-toggle="collapse" data-target="#navbarSupportedContent">
         <a class="nav-link py-0" href="/#team">Team</a>
       </li>
-      <li class="nav-item">
+      <li class="nav-item" data-toggle="collapse" data-target="#navbarSupportedContent">
         <a class="nav-link py-0" href="/#contact">Contact</a>
       </li>
 
     </ul>
   </div>
 </nav>
+</header>
 
     <main role="main">
     <h2 id="ginseng-peptide-nutrition"><a href="ginseng-peptide-nutrition">Ginseng Peptide Nutrition</a></h2>
@@ -196,14 +236,15 @@
 
 <p><img src="/images/SMPV07.jpg" alt="" style="width: 100%" /></p>
 
-    <footer class="container-fluent">
-  <p class="float-right"><a href="#">Back to top</a></p>
+    <footer>
+  <div class="container">
   <p>&copy; 2019 Peptide Valley, LLC.</p>
+  </div>
 </footer>
 
     </main>
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="/lib/jquery-3.3.1.slim.min.js"></script>
+    <script src="/lib/popper.min.js"></script>
+    <script src="/lib/bootstrap.min.js"></script>
   </body>
 </html>

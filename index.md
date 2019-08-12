@@ -7,6 +7,8 @@ layout: home
 </div>
 </div>
 
+{% include carousel/pv.html %}
+
 <div class="container">
 {% include about.html %}
 </div>

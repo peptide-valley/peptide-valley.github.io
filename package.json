@@ -19,7 +19,7 @@
   "homepage": "https://github.com/peptide-valley/peptide-valley.github.io#readme",
   "dependencies": {
     "excel4node": "^1.7.2",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "node-fetch": "^2.6.0",
     "sharp": "^0.22.1",
     "yaml": "^1.6.0"
